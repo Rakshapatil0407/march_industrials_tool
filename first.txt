@@ -1,1 +1,4 @@
-this is first file  for working area and staging area diffrence
+this is first file  for working area and staging area difference
+
+
+this is stagging area
